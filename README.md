@@ -1,16 +1,14 @@
-### Hi , I am Anuja 👋
+### Hi, and welcome to my GitHib respository !👋
+I am Anuja Nair, a result driven data professional with a passion for building scalable data solutions with a focus on data integrity and automation.
 
+𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀: • Healthcare • Fintech 
 
-🔭 I’m currently working on  
-   📊 personal formula 1 project on Azure Databricks. <br/>                          
-   
-🌱 I’m currently learning  
-   🌥️ various cloud tools for data engineering.   <br/> 
+⚒️ 🧰 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸 : • SQL • Azure • Python  • ETL Pipelines in SSIS, Azure Data Factory • Power BI • Visual Studio Code • Notebooks (Jupyter, Google Colab)• Excel / Google Sheets 
 
-📫 How to reach me: 
+📫 **How to reach me**: 
   🔗 www.linkedin.com/in/anujanair  <br/> 
   
-⚡ Fun facts: 
+⚡ **Fun facts**: <br/> 
   🏃‍♀️ I am an early riser ( 5 AM club). Big believer in starting the day with a good workout. <br/> 
   👩‍🎨 I am an artist.I am also learning surface pattern designing . I post most of my artwork on 
      (https://www.instagram.com/experiments_in_creativity/)   <br/> 
