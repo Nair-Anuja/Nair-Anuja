@@ -5,7 +5,13 @@ I am Anuja Nair, a result driven data professional with a passion for building s
 
 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀: • Healthcare • Fintech 
 
+Below are some of the projects included in the respository:<br/> 
 
+Power BI :<br/> 
+    [Analysing the factors contributing to patient Care](https://github.com/Nair-Anuja/PowerBI/tree/main/HealthStat)
+
+Azure :<br/> 
+    [Migrating On-Premises Data to cloud using Azure services](https://github.com/Nair-Anuja/DataMigration)
 
 
 📫 **How to reach me**: 
