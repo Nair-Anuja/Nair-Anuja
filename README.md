@@ -4,8 +4,7 @@ I am Anuja Nair, a result driven data professional with a passion for building s
 ⚒️ 🧰 **This is my toolkit/ tech stack:** <br/> 
 • SQL • Power BI • ETL Pipelines in SSIS, Azure Data Factory • Azure Synapse Analytics • Databricks
 • Python  <br/> 
-• Visual Studio Code 
-• Excel 
+
 
 **I have worked in the following industries :**• Healthcare • Fintech 
 
