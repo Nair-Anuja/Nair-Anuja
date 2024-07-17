@@ -17,14 +17,16 @@ I am Anuja Nair, a result driven data professional with a passion for building s
     - [Migrating On-Premises Data to cloud using Azure services](https://github.com/Nair-Anuja/DataMigration)
 
 
-📫 **How to reach me**: <br/> 
-  [LinkedIn](www.linkedin.com/in/anujanair)  <br/> 
-
   
  📚📝 **Certifications**: <br/> 
  [Microsoft Certified: Azure Data Engineer Associate](https://github.com/Nair-Anuja/Certifications/blob/main/Credentials%20-%20anujanair-9007%20_%20Microsoft%20Learn.pdf) <br/> 
  [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/Nair-Anuja/Certifications/blob/main/Credentials%20-%20anujanair-9007%20_%20Microsoft%20Learn_BI.pdf) <br/> 
  
+
+
+📫 **How to reach me**: <br/> 
+  [LinkedIn](www.linkedin.com/in/anujanair)  <br/> 
+
 
  
 ⚡ **Fun facts**: <br/> 
