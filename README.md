@@ -11,7 +11,7 @@ I am Anuja Nair, a result driven data professional with a passion for building s
 
 **Below are some of the projects in my portfolio** : <br/> 
   - Power BI :<br/> 
-    - [Analysing the factors contributing to hospital efficiency](https://github.com/Nair-Anuja/PowerBI/tree/main/HealthStat)
+    - [Analysing the factors contributing to hospital efficiency](https://github.com/Nair-Anuja/PowerBI/blob/main/HealthStat/ProjectFindings.md)
 
   - Azure :<br/> 
     - [Migrating On-Premises Data to cloud using Azure services](https://github.com/Nair-Anuja/DataMigration)
